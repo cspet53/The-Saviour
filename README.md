@@ -1,5 +1,5 @@
 # The-Saviour
-Filter the meteors and be 'The Saviour'
+Filter the meteors and be 'The Saviour'.
 I am CS Peterson. I love coding in Python. Today, I am presenting a new game which I created in Python. And, the game is called 'The Saviour'. I made this game using various modules which I would be revealing at the end. So here is a bit of backstory of the game. After this, I recommend reading the README.pdf which contains a total guide to the game along with a picture. 
 
 
