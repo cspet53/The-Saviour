@@ -10,7 +10,6 @@ pygame.init()
 # Game Display
 screen = pygame.display.set_mode((1300, 700))
 icon = pygame.image.load("F:\programming\PYTHON\GAMES\The Saviour\Icon.png")
-# open = pygame.image.load("F:\programming\PYTHON\GAMES\The Saviour\Open.png")
 pygame.display.set_caption("The Saviour")
 pygame.display.set_icon(icon)
 
